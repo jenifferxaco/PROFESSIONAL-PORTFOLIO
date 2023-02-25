@@ -1,0 +1,111 @@
+body{
+    background-color: white;
+    background-image: url(https://img.freepik.com/free-photo/white-concrete-wall_53876-92803.jpg?w=826&t=st=1677293025~exp=1677293625~hmac=fa3fa8fc9774d6c76382ac7b56016486c659efa95097a707731eaf2a5f243a37;)
+}
+h1{
+border-radius: 5px;
+font-family: 'Gloock', serif;
+text-shadow: 2px 4px 10px darkgrey;
+color: black;
+text-align: center;
+border-bottom: dotted;
+border-color: grey;
+}
+
+.img1{
+    border-radius: 1000px;
+    display:block;
+    margin: auto;
+    height: auto;
+    width: 200px;
+
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    height: auto;
+    width: 50px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa fa-github {
+    background: red;
+    color: white;
+    height: auto;
+    width: 50px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+    
+footer{
+    text-align: center;
+    color: black;
+    font-family: inherit;
+    font-weight: lighter;
+    font-size: 10px;
+    
+}
+#submit{
+    background-color: cornflowerblue;
+    opacity: 40%;
+    border-radius: 20%;
+    color: black
+}
+
+.messageme {
+    padding: 13px;
+    text-align: center;
+    outline: 0;
+    transition: all 0.4s;
+    line-height: 25px;
+    background-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+
+}
+
+h2 {
+color: #737CA1;
+    text-align: center; 
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    margin: 30px;
+    padding: 40px;
+}
+
+p{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+footer{
+    align-items: center;
+}
+
+#connect{
+    align-items: center;
+}
+
+h5{
+    text-align: center;
+}
+
+#pages{
+    align-items: center;
+}
+
+#info{
+    color: #3D3C3A;
+}
